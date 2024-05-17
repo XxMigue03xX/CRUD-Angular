@@ -1,0 +1,21 @@
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.form-container{
+    width: 40%;
+    padding: 30px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
